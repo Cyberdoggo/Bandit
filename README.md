@@ -17,3 +17,7 @@ Command
 ls > cat readme 
 Password : boJ9jbbUNNfktd7800psq0ltutMc3MY1
 
+For flag 2
+
+command 
+cd > . > cd Home > 
